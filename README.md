@@ -6,27 +6,27 @@ Here, "Kristall" transcends its literal meaning of transparency and crystalline 
 
 Engaging with this artistic exploration, we are beckoned to delve into the human soul, to traverse the most veiled and unexplored facets of our cognition. "Kristall Dark Mode Chroma" confronts our established views, proposing an aesthetic journey that is both thought-provoking and sublime.
 
-# Kristall Dark Mode Chroma Theme | CSS
+## Kristall Dark Mode Chroma Theme | CSS
 
 ![Kristall Dark Mode Chroma Theme | CSS](./assets/screenshot-01.png)
 
-# Kristall Dark Mode Chroma Theme | JSON
+## Kristall Dark Mode Chroma Theme | JSON
 
 ![Kristall Dark Mode Chroma Theme | JSON](./assets/screenshot-02.png)
 
-# Kristall Dark Mode Chroma Theme | GPT YAML
+## Kristall Dark Mode Chroma Theme | GPT YAML
 
 ![Kristall Dark Mode Chroma Theme | GPT YAML](./assets/screenshot-03.png)
 
-# Kristall Dark Mode Chroma Theme | GPT JSON
+## Kristall Dark Mode Chroma Theme | GPT JSON
 
 ![Kristall Dark Mode Chroma Theme | GPT JSON](./assets/screenshot-04.png)
 
-# Kristall Dark Mode Chroma Theme | Terminal
+## Kristall Dark Mode Chroma Theme | Terminal
 
 ![Kristall Dark Mode Chroma Theme | Terminal](./assets/screenshot-05.png)
 
-## 1. Manual Install
+### 1. Manual Install
 
 -   Download: `themes`, > `kristall-dark.json`
 -   Add: On your macOS, move the `kristall-dark.json` file to folder `~/.config/zed/themes/`
@@ -34,21 +34,21 @@ Engaging with this artistic exploration, we are beckoned to delve into the human
 -   Search by: `Kristall`, `Kristall Dark Mode Chroma`, `Takk Innovate Studio`, `Takk Design`, or `David C Cavalcante`
 -   You have easily installed the most sophisticated theme.
 
-## 2. Install
+### 2. Install
 
 -   Menu: `Go`, > `Open`, `Command Palette...`
 -   Type: `extensions` or `zed: extensions`
 -   Search by: `Kristall`, `Kristall Dark Mode Chroma`, `Takk Innovate Studio`, `Takk Design`, or `David C Cavalcante`
 -   Enjoy your working day.
 
-## 3. Activate
+### 3. Activate
 
 -   Menu: `Go`, > `Open`, `Command Palette...`
 -   Type: `theme selector: toggle`
 -   Search by: `Kristall`, `Kristall Dark Mode Chroma`, `Takk Innovate Studio`, `Takk Design`, or `David C Cavalcante`
 -   Be grateful for another day.
 
-## 4. Support
+### 4. Support
 
 Experience the power of ZED by visiting their official website today at https://zed.dev/.
 
@@ -61,7 +61,7 @@ To contribute to public and social projects focused on research and artificial i
 -   DOGE (Doge) `D6ryr9qX7boJcjkd483Mmzbe3GDHVkTErE`
 -   BTC (BTC) `39RBEMp7GQ1Zjykswbt1Z4BSNJH3VGCKAc`
 
-# Takk™ Innovate Studio
+## Takk™ Innovate Studio
 
 -   Copyright (c)
 -   License: Attribution 4.0 International (CC BY 4.0)
