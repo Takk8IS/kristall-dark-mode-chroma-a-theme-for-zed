@@ -6,23 +6,31 @@ Here, "Kristall" transcends its literal meaning of transparency and crystalline 
 
 Engaging with this artistic exploration, we are beckoned to delve into the human soul, to traverse the most veiled and unexplored facets of our cognition. "Kristall Dark Mode Chroma" confronts our established views, proposing an aesthetic journey that is both thought-provoking and sublime.
 
-![Dark Theme](./assets/kristall-py.png)
+![Dark Theme](./assets/screenshot-01.png,./assets/screenshot-02.png,./assets/screenshot-03.png,./assets/screenshot-04.png,./assets/screenshot-05.png,)
 
-## 1. Install
+## 1. Manual Install
+
+-   Download: `themes`, > `kristall-dark.json`
+-   Add: On your macOS, move the `kristall-dark.json` file to folder `~/.config/zed/themes/`
+-   Type: `theme selector: toggle`
+-   Search by: `Kristall`, `Kristall Dark Mode Chroma`, `Takk Innovate Studio`, `Takk Design`, or `David C Cavalcante`
+-   You have easily installed the most sophisticated theme.
+
+## 2. Install
 
 -   Menu: `Go`, > `Open`, `Command Palette...`
 -   Type: `extensions` or `zed: extensions`
 -   Search by: `Kristall`, `Kristall Dark Mode Chroma`, `Takk Innovate Studio`, `Takk Design`, or `David C Cavalcante`
--   Now: `Enjoy your working day`
+-   Enjoy your working day.
 
-## 2. Activate
+## 3. Activate
 
 -   Menu: `Go`, > `Open`, `Command Palette...`
 -   Type: `theme selector: toggle`
 -   Search by: `Kristall`, `Kristall Dark Mode Chroma`, `Takk Innovate Studio`, `Takk Design`, or `David C Cavalcante`
--   Now: `Be grateful for another day`
+-   Be grateful for another day.
 
-## 3. Support
+## 4. Support
 
 Experience the power of ZED by visiting their official website today at https://zed.dev/.
 

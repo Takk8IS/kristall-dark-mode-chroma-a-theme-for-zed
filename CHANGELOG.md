@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.2] - 2024-03-29
+
+-   Added and improved new features for a more comfortable and sophisticated interface experience.
+
 ## [1.1] - 2024-03-27
 
 -   Updated colour palette and theme aesthetics based on user feedback and ergonomic considerations for improved visual comfort and accessibility.
