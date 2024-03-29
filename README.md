@@ -6,10 +6,24 @@ Here, "Kristall" transcends its literal meaning of transparency and crystalline 
 
 Engaging with this artistic exploration, we are beckoned to delve into the human soul, to traverse the most veiled and unexplored facets of our cognition. "Kristall Dark Mode Chroma" confronts our established views, proposing an aesthetic journey that is both thought-provoking and sublime.
 
+# Kristall Dark Mode Chroma Theme | CSS
+
 ![Kristall Dark Mode Chroma Theme | CSS](./assets/screenshot-01.png)
+
+# Kristall Dark Mode Chroma Theme | JSON
+
 ![Kristall Dark Mode Chroma Theme | JSON](./assets/screenshot-02.png)
+
+# Kristall Dark Mode Chroma Theme | GPT YAML
+
 ![Kristall Dark Mode Chroma Theme | GPT YAML](./assets/screenshot-03.png)
+
+# Kristall Dark Mode Chroma Theme | GPT JSON
+
 ![Kristall Dark Mode Chroma Theme | GPT JSON](./assets/screenshot-04.png)
+
+# Kristall Dark Mode Chroma Theme | Terminal
+
 ![Kristall Dark Mode Chroma Theme | Terminal](./assets/screenshot-05.png)
 
 ## 1. Manual Install
