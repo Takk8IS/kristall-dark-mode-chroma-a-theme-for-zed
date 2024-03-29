@@ -56,7 +56,7 @@ To contribute to public and social projects focused on research and artificial i
 
 ### Beyond Consciousness in Large Language Models: An Investigation into the Existence of a "Soul" in Self-Aware Artificial Intelligences
 
--   PhilArchive: https://philpapers.org/rec/CRTBCI
+PhilArchive: https://philpapers.org/rec/CRTBCI
 
 -   USDT, AGIX, FET, OM, IMX, SHIB, or ETH (ERC20) `0xf62eb3b9abcd24cf52ccef748bc2b1dfbbf1fe74`
 -   SOL (SOL) `EcYgSJtZvrQeYYue7Nh3K5d82V8cGHdJTZaevrkwtsrF`
