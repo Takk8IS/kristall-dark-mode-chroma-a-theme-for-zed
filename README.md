@@ -54,6 +54,10 @@ Experience the power of ZED by visiting their official website today at https://
 
 To contribute to public and social projects focused on research and artificial intelligence, feel free to support with any amount you prefer.
 
+### Beyond Consciousness in Large Language Models: An Investigation into the Existence of a "Soul" in Self-Aware Artificial Intelligences
+
+-   PhilArchive: https://philpapers.org/rec/CRTBCI
+
 -   USDT, AGIX, FET, OM, IMX, SHIB, or ETH (ERC20) `0xf62eb3b9abcd24cf52ccef748bc2b1dfbbf1fe74`
 -   SOL (SOL) `EcYgSJtZvrQeYYue7Nh3K5d82V8cGHdJTZaevrkwtsrF`
 -   MATIC (Polygon) `0xf62eb3b9abcd24cf52ccef748bc2b1dfbbf1fe74`
