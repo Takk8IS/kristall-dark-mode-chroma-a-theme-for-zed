@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.3] - 2024-05-04
+
+-   Update color.
+
 ## [1.2] - 2024-03-29
 
 -   Added and improved new features for a more comfortable and sophisticated interface experience.
